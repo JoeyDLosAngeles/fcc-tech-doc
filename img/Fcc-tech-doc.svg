@@ -1,0 +1,794 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="21605" viewBox="0 0 1920 21605">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1203" height="380" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="436" height="1190.5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="822" height="196" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Fcc-tech-doc">
+      <rect width="1920" height="21605"/>
+    </clipPath>
+  </defs>
+  <g id="Fcc-tech-doc" clip-path="url(#clip-Fcc-tech-doc)">
+    <rect width="1920" height="21605" fill="#fff"/>
+    <text id="Flexbox" transform="translate(819 90)" fill="#030303" font-size="80" font-family="ArialMT, Arial"><tspan x="0" y="0">Flexbox</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="1864" transform="translate(26.5 124.5)" fill="none" stroke="#707070" stroke-width="4"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(552 27)" fill="#fa0622" stroke="#020202" stroke-linejoin="round" stroke-width="2">
+      <rect width="69" height="67" rx="19" stroke="none"/>
+      <rect x="1" y="1" width="67" height="65" rx="18" fill="none"/>
+    </g>
+    <g id="Rectangle_1-2" data-name="Rectangle 1" transform="translate(641 27)" fill="#22fa06" stroke="#020202" stroke-linejoin="round" stroke-width="2">
+      <rect width="69" height="67" rx="19" stroke="none"/>
+      <rect x="1" y="1" width="67" height="65" rx="18" fill="none"/>
+    </g>
+    <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(730 27)" fill="#06e7fa" stroke="#020202" stroke-linejoin="round" stroke-width="2">
+      <rect width="69" height="67" rx="19" stroke="none"/>
+      <rect x="1" y="1" width="67" height="65" rx="18" fill="none"/>
+    </g>
+    <g id="Rectangle_1-4" data-name="Rectangle 1" transform="translate(1122 27)" fill="#06e7fa" stroke="#020202" stroke-linejoin="round" stroke-width="2">
+      <rect width="69" height="67" rx="19" stroke="none"/>
+      <rect x="1" y="1" width="67" height="65" rx="18" fill="none"/>
+    </g>
+    <g id="Rectangle_1-5" data-name="Rectangle 1" transform="translate(1211 27)" fill="#22fa06" stroke="#020202" stroke-linejoin="round" stroke-width="2">
+      <rect width="69" height="67" rx="19" stroke="none"/>
+      <rect x="1" y="1" width="67" height="65" rx="18" fill="none"/>
+    </g>
+    <g id="Rectangle_1-6" data-name="Rectangle 1" transform="translate(1300 27)" fill="#fa0606" stroke="#020202" stroke-linejoin="round" stroke-width="2">
+      <rect width="69" height="67" rx="19" stroke="none"/>
+      <rect x="1" y="1" width="67" height="65" rx="18" fill="none"/>
+    </g>
+    <line id="Line_2" data-name="Line 2" y2="1216" transform="translate(413.5 124.5)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="Hey_you_Flexing_" data-name="Hey, you Flexing? " transform="translate(461 210)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Hey, you Flexing? </tspan></text>
+    <text id="Two_Axis_of_Flexbox" data-name="Two Axis of Flexbox" transform="translate(465 1198)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two Axis of Flexbox</tspan></text>
+    <text id="Start_and_Endlines" data-name="Start and Endlines" transform="translate(465 4452)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Start and Endlines</tspan></text>
+    <text id="The_Flex_container_" data-name="The Flex container " transform="translate(465 6212)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The Flex container </tspan></text>
+    <text id="Multi-line_flex_containers_with_flex-wrap" data-name="Multi-line flex containers with flex-wrap" transform="translate(465 8992)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Multi-line flex containers with flex-wrap</tspan></text>
+    <text id="The_flex-flow_shorthand" data-name="The flex-flow shorthand" transform="translate(461 10431)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The flex-flow shorthand</tspan></text>
+    <text id="Properties_applied_to_flex_items_" data-name="Properties applied to flex items
+" transform="translate(456 11524)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Properties applied to flex items</tspan><tspan x="0" y="58"></tspan></text>
+    <text id="Alignment_justification_and_distribution_of_free_space_between_items" data-name="Alignment, justification and distribution of free 
+space between items" transform="translate(456 18119)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Alignment, justification and distribution of free </tspan><tspan x="0" y="58">space between items</tspan></text>
+    <text id="The_Main_Axis" data-name="The Main Axis" transform="translate(465 1484)" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The Main Axis</tspan></text>
+    <text id="The_Main_Axis-2" data-name="The Main Axis" transform="translate(465 1484)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The Main Axis</tspan></text>
+    <text id="The_Cross_Axis" data-name="The Cross Axis" transform="translate(465 2968)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The Cross Axis</tspan></text>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(460 262)" clip-path="url(#clip-path)">
+      <g transform="translate(-460 -262)">
+        <text id="Back_in_2009_I_took_2_semesters_of_HTML_CSS_classes._This_was_the_bad_old_days_that_a_site_like_https:_caniuse.com_would_light_up_like_a_christmas_tree_of_colors_on_who_allowed_what_css_techniques._I_remember_that_my_professor_would_check_your_site_on_I." data-name="Back in 2009 I took 2 semesters of HTML/CSS classes. This was the bad old days that a site like https://caniuse.com/ would light up like a christmas tree of colors on who allowed what css techniques. I remember that my professor would check your site on I." transform="translate(461 262)" fill="#030303" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">Back in 2009 I took 2 semesters of HTML/CSS classes. This was the bad old days </tspan><tspan x="0" y="66">that a site like https://caniuse.com/ would light up like a christmas tree of colors on </tspan><tspan x="0" y="103">who allowed what css techniques. I remember that my professor would check your </tspan><tspan x="0" y="140">site on I.E. Chrome, Firefox and Safari. By all means I’m not saying some of those </tspan><tspan x="0" y="177">issues don’t still happen but they’ve gotten worlds better. v</tspan><tspan x="0" y="214">As I am refreshing my knowledge of HTML/CSS the first thing that blew my mind </tspan><tspan x="0" y="251">away was Flexbox. Back when I first learned HTML/CSS all positioning was done </tspan><tspan x="0" y="288">with positioning. Absolute, Relative, Static, Fixed, Inherit. This wasn’t easy because </tspan><tspan x="0" y="325">what looked great in chrome looked horrible in IE. and lining stuff up was a task. </tspan><tspan x="0" y="362">Flexbox seems like such an amazing solution to so many of these tasks. </tspan></text>
+      </g>
+    </g>
+    <text id="Flexbox_is_a_single_dimensional_layout_model_that_helps_you_easily_align_and_space_elements_across_your_page._You_layout_either_in_a_row_or_a_column._More_complex_layout_can_be_handled_with_a_grid_also_awesome_._If_you_use_them_together_Pow_it_s_a_power" data-name="Flexbox is a single dimensional layout model that helps you easily align and space elements across your page. You layout either in a row or a column. More complex layout can be handled with a grid (also awesome). If you use them together, Pow, it’s a power" transform="translate(461 907)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">Flexbox is a single dimensional layout model that helps you easily align and space </tspan><tspan x="0" y="66">elements across your page. You layout either in a row or a column. More complex </tspan><tspan x="0" y="103">layout can be handled with a grid (also awesome). If you use them together, Pow, it’s </tspan><tspan x="0" y="140">a powerhouse. </tspan></text>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(461 670)" fill="#575656" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(778 670)" fill="#575656" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2-3" data-name="Rectangle 2" transform="translate(1095 670)" fill="#575656" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2-4" data-name="Rectangle 2" transform="translate(1412 670)" fill="#575656" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(480 688)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="215" height="80" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="214" height="79" rx="19.5" fill="none"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(480 768)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="215" height="80" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="214" height="79" rx="19.5" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(802 683)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="215" height="80" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="214" height="79" rx="19.5" fill="none"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(1118 683)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="215" height="170" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="214" height="169" rx="19.5" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(802 773)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="215" height="80" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="214" height="79" rx="19.5" fill="none"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(1118 682)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="160" height="171" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="159" height="170" rx="19.5" fill="none"/>
+    </g>
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(1434 682)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="215" height="170" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="214" height="169" rx="19.5" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(1412 669)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="196" height="80" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="195" height="79" rx="19.5" fill="none"/>
+    </g>
+    <text id="Static" transform="translate(549 739)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0">Static</tspan></text>
+    <text id="Static-2" data-name="Static" transform="translate(549 819)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0">Static</tspan></text>
+    <text id="Static-3" data-name="Static" transform="translate(871 736)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0">Static</tspan></text>
+    <text id="Absolute" transform="translate(1136 729)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0">Absolute</tspan></text>
+    <text id="Fixed" transform="translate(1471 720)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0">Fixed</tspan></text>
+    <text id="Relative" transform="translate(1293.5 707.5) rotate(90)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0">Relative</tspan></text>
+    <text id="Relative-2" data-name="Relative" transform="translate(853 820)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0">Relative</tspan></text>
+    <text id="Relative-3" data-name="Relative" transform="translate(1484 802)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0">Relative</tspan></text>
+    <text id="When_working_with_flexbox_you_need_to_think_in_terms_of_two_axes_the_main_axis_and_the_cross_axis._The_main_axis_is_defined_by_the_flex-direction_property_and_the_cross_axis_runs_perpendicular_to_it._Everything_we_do_with_flexbox_refers_back_to_these_ax" data-name="When working with flexbox you need to think in terms of two axes — the main axis and the cross axis. The main axis is defined by the flex-direction property, and the cross axis runs perpendicular to it. Everything we do with flexbox refers back to these ax" transform="translate(461 1250)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">When working with flexbox you need to think in terms of two axes — the main axis </tspan><tspan x="0" y="66">and the cross axis. The main axis is defined by the flex-direction property, and the </tspan><tspan x="0" y="103">cross axis runs perpendicular to it. Everything we do with flexbox refers back to </tspan><tspan x="0" y="140">these axes, so it is worth understanding how they work from the outset.</tspan></text>
+    <text id="The_cross_axis_runs_perpendicular_to_the_main_axis_therefore_if_your_flex-direction_main_axis_is_set_to_row_or_row-reverse_the_cross_axis_runs_down_the_columns." data-name="The cross axis runs perpendicular to the main axis, therefore if your flex-direction (main axis) is set to row or row-reverse the cross axis runs down the columns." transform="translate(461 3020)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">The cross axis runs perpendicular to the main axis, therefore if your flex-direction </tspan><tspan x="0" y="66">(main axis) is set to </tspan><tspan y="66" font-family="Arial-ItalicMT, Arial" font-style="italic">row</tspan><tspan y="66" xml:space="preserve"> or </tspan><tspan y="66" font-family="Arial-ItalicMT, Arial" font-style="italic">row-reverse</tspan><tspan y="66" xml:space="preserve"> the cross axis runs down the columns.</tspan></text>
+    <text id="The_main_axis_is_defined_by_flex-direction_which_has_four_possible_values:_row_row-reverse_column_column-reverse_Should_you_choose_row_or_row-reverse_your_main_axis_will_run_along_the_row_in_the_inline_direction." data-name="The main axis is defined by flex-direction, which has four possible values:
+
+row
+row-reverse
+column
+column-reverse
+
+Should you choose row or row-reverse, your main axis will run along the row in the inline direction." transform="translate(461 1536)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">The main axis is defined by flex-direction, which has four possible values:</tspan><tspan x="0" y="66"></tspan><tspan x="0" y="103">row</tspan><tspan x="0" y="140">row-reverse</tspan><tspan x="0" y="177">column</tspan><tspan x="0" y="214">column-reverse</tspan><tspan x="0" y="251"></tspan><tspan x="0" y="288">Should you choose row or row-reverse, your main axis will run along the row in the </tspan><tspan x="0" y="325" font-family="Arial-BoldMT, Arial" font-weight="700">inline direction</tspan><tspan y="325">.</tspan></text>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(-13 122)" fill="#575656" stroke="#707070" stroke-width="1">
+      <rect width="428" height="1219" stroke="none"/>
+      <rect x="0.5" y="0.5" width="427" height="1218" fill="none"/>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(-22.5 150)" clip-path="url(#clip-path-2)">
+      <g id="Group_1" data-name="Group 1" transform="translate(22.5 -150)">
+        <text id="Hey_you_Flexing_2" data-name="Hey, you Flexing? " transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Hey, you Flexing? </tspan></text>
+        <path id="Path_1" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-2" data-name="Group 1" transform="translate(22.5 -57)">
+        <text id="Two_Axis_of_Flexbox-2" data-name="Two Axis of Flexbox" transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two Axis of Flexbox</tspan></text>
+        <path id="Path_1-2" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-3" data-name="Group 1" transform="translate(22.5 36)">
+        <text id="The_Main_Axis-3" data-name="The Main Axis" transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The Main Axis</tspan></text>
+        <path id="Path_1-3" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-4" data-name="Group 1" transform="translate(22.5 129)">
+        <text id="The_Cross_Axis-2" data-name="The Cross Axis" transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The Cross Axis</tspan></text>
+        <path id="Path_1-4" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-5" data-name="Group 1" transform="translate(22.5 222)">
+        <text id="Start_and_Endlines-2" data-name="Start and Endlines" transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Start and Endlines</tspan></text>
+        <path id="Path_1-5" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-6" data-name="Group 1" transform="translate(22.5 315)">
+        <text id="The_Flex_container_2" data-name="The Flex container " transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The Flex container </tspan></text>
+        <path id="Path_1-6" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-7" data-name="Group 1" transform="translate(22.5 408)">
+        <text id="Changing_flex-direction" data-name="Changing 
+flex-direction" transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Changing </tspan><tspan x="0" y="43">flex-direction</tspan></text>
+        <path id="Path_1-7" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-8" data-name="Group 1" transform="translate(22.5 501)">
+        <text id="Multi-line_flex_containers_with_flex-wrap-2" data-name="Multi-line 
+flex containers with flex-wrap" transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Multi-line </tspan><tspan x="0" y="43">flex containers with flex-wrap</tspan></text>
+        <path id="Path_1-8" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-9" data-name="Group 1" transform="translate(22.5 594)">
+        <text id="Multi-line_flex_containers_with_flex-wrap-3" data-name="Multi-line 
+flex containers with flex-wrap" transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Multi-line </tspan><tspan x="0" y="43">flex containers with flex-wrap</tspan></text>
+        <path id="Path_1-9" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-10" data-name="Group 1" transform="translate(22.5 687)">
+        <text id="Hey_you_Flexing_3" data-name="Hey, you Flexing? " transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Hey, you Flexing? </tspan></text>
+        <path id="Path_1-10" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-11" data-name="Group 1" transform="translate(22.5 780)">
+        <text id="Hey_you_Flexing_4" data-name="Hey, you Flexing? " transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Hey, you Flexing? </tspan></text>
+        <path id="Path_1-11" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-12" data-name="Group 1" transform="translate(22.5 873)">
+        <text id="Hey_you_Flexing_5" data-name="Hey, you Flexing? " transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Hey, you Flexing? </tspan></text>
+        <path id="Path_1-12" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+      <g id="Group_1-13" data-name="Group 1" transform="translate(22.5 966)">
+        <text id="Hey_you_Flexing_6" data-name="Hey, you Flexing? " transform="translate(29 186)" fill="#06e7fa" font-size="38" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Hey, you Flexing? </tspan></text>
+        <path id="Path_1-13" data-name="Path 1" d="M436,0H0" transform="translate(-22.5 221.5)" fill="none" stroke="#faf7f7" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(290 61)">
+      <g id="Group_3" data-name="Group 3" transform="translate(88)">
+        <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(445 1849)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+          <rect width="854" height="231" stroke="none"/>
+          <rect x="0.5" y="0.5" width="853" height="230" fill="none"/>
+        </g>
+        <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(456 1863)" clip-path="url(#clip-path-3)">
+          <g transform="translate(-465 -1869)">
+            <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(465 1869)" fill="#fa0606" stroke="#707070" stroke-width="1">
+              <rect width="259" height="196" rx="33" stroke="none"/>
+              <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+            </g>
+          </g>
+          <g transform="translate(-186 -1869)">
+            <g id="Rectangle_12-2" data-name="Rectangle 12" transform="translate(465 1869)" fill="#fa0606" stroke="#707070" stroke-width="1">
+              <rect width="259" height="196" rx="33" stroke="none"/>
+              <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+            </g>
+          </g>
+          <g transform="translate(93 -1869)">
+            <g id="Rectangle_12-3" data-name="Rectangle 12" transform="translate(465 1869)" fill="#fa0606" stroke="#707070" stroke-width="1">
+              <rect width="259" height="196" rx="33" stroke="none"/>
+              <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <text id="A" transform="translate(557 1992)" fill="#f8f4f4" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+        <text id="B" transform="translate(835 1992)" fill="#fdfdfd" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+        <text id="C" transform="translate(1113 1992)" fill="#f2f8f8" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      </g>
+      <path id="Icon_awesome-long-arrow-alt-right" data-name="Icon awesome-long-arrow-alt-right" d="M99.645,26.31H3.809C1.705,26.31,0,27.541,0,29.058V41.88c0,1.517,1.705,2.748,3.809,2.748H99.645V55.174c0,4.9,8.205,7.348,13,3.886l27.315-19.7c2.975-2.146,2.975-5.626,0-7.771l-27.315-19.7c-4.8-3.462-13-1.01-13,3.886Z" transform="translate(1246 2065.742)"/>
+      <text id="Main_Axis_flex-direction:_row_" data-name="Main Axis flex-direction: row;  " transform="translate(728 2111)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Main Axis flex-direction: row;  </tspan></text>
+      <path id="Icon_awesome-long-arrow-alt-right-2" data-name="Icon awesome-long-arrow-alt-right" d="M97.455,26.31H3.725C1.668,26.31,0,27.541,0,29.058V41.88c0,1.517,1.668,2.748,3.725,2.748h93.73V55.174c0,4.9,8.025,7.348,12.718,3.886l26.715-19.7c2.91-2.146,2.91-5.626,0-7.771l-26.715-19.7c-4.693-3.462-12.718-1.01-12.718,3.886Z" transform="translate(674.43 2136.68) rotate(180)"/>
+    </g>
+    <g id="Group_7" data-name="Group 7">
+      <g id="Rectangle_14-2" data-name="Rectangle 14" transform="translate(462 7025)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+        <rect width="1199" height="231" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1198" height="230" fill="none"/>
+      </g>
+      <g id="Rectangle_12-4" data-name="Rectangle 12" transform="translate(473 7039)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+        <rect width="86" height="196" rx="33" stroke="none"/>
+        <rect x="0.5" y="0.5" width="85" height="195" rx="32.5" fill="none"/>
+      </g>
+      <g id="Rectangle_12-5" data-name="Rectangle 12" transform="translate(560 7040)" fill="#22fa06" stroke="#707070" stroke-width="1">
+        <rect width="85" height="196" rx="33" stroke="none"/>
+        <rect x="0.5" y="0.5" width="84" height="195" rx="32.5" fill="none"/>
+      </g>
+      <g id="Rectangle_12-6" data-name="Rectangle 12" transform="translate(644 7041)" fill="#fa0606" stroke="#707070" stroke-width="1">
+        <rect width="125" height="196" rx="33" stroke="none"/>
+        <rect x="0.5" y="0.5" width="124" height="195" rx="32.5" fill="none"/>
+      </g>
+      <text id="One" transform="translate(477 7074)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">One</tspan></text>
+      <text id="Two" transform="translate(566 7076)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two</tspan></text>
+      <text id="Three_Has_Extra_Text" data-name="Three
+Has 
+Extra
+Text" transform="translate(658 7076)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Three</tspan><tspan x="0" y="42">Has </tspan><tspan x="0" y="84">Extra</tspan><tspan x="0" y="126">Text</tspan></text>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(0 12004)">
+      <g id="Rectangle_14-3" data-name="Rectangle 14" transform="translate(462 7025)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+        <rect width="1199" height="231" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1198" height="230" fill="none"/>
+      </g>
+      <g id="Rectangle_12-7" data-name="Rectangle 12" transform="translate(473 7039)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+        <rect width="86" height="196" rx="33" stroke="none"/>
+        <rect x="0.5" y="0.5" width="85" height="195" rx="32.5" fill="none"/>
+      </g>
+      <g id="Rectangle_12-8" data-name="Rectangle 12" transform="translate(560 7040)" fill="#22fa06" stroke="#707070" stroke-width="1">
+        <rect width="85" height="196" rx="33" stroke="none"/>
+        <rect x="0.5" y="0.5" width="84" height="195" rx="32.5" fill="none"/>
+      </g>
+      <g id="Rectangle_12-9" data-name="Rectangle 12" transform="translate(644 7041)" fill="#fa0606" stroke="#707070" stroke-width="1">
+        <rect width="125" height="196" rx="33" stroke="none"/>
+        <rect x="0.5" y="0.5" width="124" height="195" rx="32.5" fill="none"/>
+      </g>
+      <text id="One-2" data-name="One" transform="translate(477 7074)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">One</tspan></text>
+      <text id="Two-2" data-name="Two" transform="translate(566 7076)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two</tspan></text>
+      <text id="Three_Has_Extra_Text-2" data-name="Three
+Has 
+Extra
+Text" transform="translate(658 7076)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Three</tspan><tspan x="0" y="42">Has </tspan><tspan x="0" y="84">Extra</tspan><tspan x="0" y="126">Text</tspan></text>
+    </g>
+    <g id="Rectangle_14-4" data-name="Rectangle 14" transform="translate(462 8334)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1196" height="92" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="91" fill="none"/>
+    </g>
+    <g id="Rectangle_44" data-name="Rectangle 44" transform="translate(462 20648)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1196" height="92" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="91" fill="none"/>
+    </g>
+    <g id="Rectangle_12-10" data-name="Rectangle 12" transform="translate(1548 8346)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="86" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="85" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(480 20663)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="86" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="85" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12-11" data-name="Rectangle 12" transform="translate(1464 8345)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="85" height="63" rx="31.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="84" height="62" rx="31" fill="none"/>
+    </g>
+    <g id="Rectangle_46" data-name="Rectangle 46" transform="translate(566 20663)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="85" height="63" rx="31.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="84" height="62" rx="31" fill="none"/>
+    </g>
+    <g id="Rectangle_12-12" data-name="Rectangle 12" transform="translate(1338 8345)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="125" height="60" rx="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="124" height="59" rx="29.5" fill="none"/>
+    </g>
+    <g id="Rectangle_47" data-name="Rectangle 47" transform="translate(650 20667)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="125" height="60" rx="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="124" height="59" rx="29.5" fill="none"/>
+    </g>
+    <text id="One-3" data-name="One" transform="translate(1554 8387)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">One</tspan></text>
+    <text id="One-4" data-name="One" transform="translate(484 20708)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">One</tspan></text>
+    <text id="Two-3" data-name="Two" transform="translate(1469 8387)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two</tspan></text>
+    <text id="Two-4" data-name="Two" transform="translate(570 20711)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two</tspan></text>
+    <text id="Three" transform="translate(1347 8386)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Three</tspan></text>
+    <g id="Rectangle_14-5" data-name="Rectangle 14" transform="translate(465 5073)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1199" height="231" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1198" height="230" fill="none"/>
+    </g>
+    <g id="Rectangle_12-13" data-name="Rectangle 12" transform="translate(476 5087)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12-14" data-name="Rectangle 12" transform="translate(755 5087)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12-15" data-name="Rectangle 12" transform="translate(1034 5087)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <text id="A-2" data-name="A" transform="translate(569 5216)" fill="#f8f4f4" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text id="B-2" data-name="B" transform="translate(852 5216)" fill="#fdfdfd" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+    <text id="C-2" data-name="C" transform="translate(1130 5216)" fill="#f2f8f8" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    <path id="Icon_awesome-long-arrow-alt-right-3" data-name="Icon awesome-long-arrow-alt-right" d="M99.645,26.31H3.809C1.705,26.31,0,27.541,0,29.058V41.88c0,1.517,1.705,2.748,3.809,2.748H99.645V55.174c0,4.9,8.205,7.348,13,3.886l27.315-19.7c2.975-2.146,2.975-5.626,0-7.771l-27.315-19.7c-4.8-3.462-13-1.01-13,3.886Z" transform="translate(1519 5301.742)"/>
+    <text id="Main_Axis_flex-direction:_row_2" data-name="Main Axis flex-direction: row;  " transform="translate(827 5355)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Main Axis flex-direction: row;  </tspan></text>
+    <text id="Start" transform="translate(461 5066)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Start</tspan></text>
+    <text id="End" transform="translate(1600 5066)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">End</tspan></text>
+    <path id="Icon_awesome-long-arrow-alt-right-4" data-name="Icon awesome-long-arrow-alt-right" d="M97.455,16.052H3.725C1.668,16.052,0,17.282,0,18.8V31.622c0,1.517,1.668,2.748,3.725,2.748h93.73V44.916c0,4.9,8.025,7.348,12.718,3.886l26.715-19.7c2.91-2.146,2.91-5.626,0-7.771l-26.715-19.7C105.48-1.841,97.455.611,97.455,5.506Z" transform="translate(602.43 5362.422) rotate(180)"/>
+    <g id="Rectangle_14-6" data-name="Rectangle 14" transform="translate(463 12355)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1199" height="231" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1198" height="230" fill="none"/>
+    </g>
+    <g id="Rectangle_12-16" data-name="Rectangle 12" transform="translate(474 12369)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12-17" data-name="Rectangle 12" transform="translate(733 12369)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12-18" data-name="Rectangle 12" transform="translate(991 12369)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="259" height="196" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+    </g>
+    <text id="A-3" data-name="A" transform="translate(568 12499)" fill="#f8f4f4" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text id="B-3" data-name="B" transform="translate(825 12498)" fill="#fdfdfd" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+    <text id="C-3" data-name="C" transform="translate(1088 12498)" fill="#f2f8f8" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    <path id="Icon_awesome-long-arrow-alt-right-5" data-name="Icon awesome-long-arrow-alt-right" d="M36.927,26.31H1.411C.632,26.31,0,27.541,0,29.058V41.88c0,1.517.632,2.748,1.411,2.748H36.927V55.174c0,4.9,3.041,7.348,4.819,3.886l10.123-19.7a9.544,9.544,0,0,0,0-7.771l-10.123-19.7c-1.778-3.462-4.819-1.01-4.819,3.886Z" transform="translate(1305.695 12641.68) rotate(-180)"/>
+    <text id="Available_200px" data-name="Available = 200px" transform="translate(1316 12617)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Available = 200px</tspan></text>
+    <text id="Container_500px" data-name="Container = 500px" transform="translate(890 12339)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Container = 500px</tspan></text>
+    <g id="Rectangle_14-7" data-name="Rectangle 14" transform="translate(462 5553)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1201" height="231" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1200" height="230" fill="none"/>
+    </g>
+    <g id="Repeat_Grid_3-2" data-name="Repeat Grid 3" transform="translate(817 5569)" clip-path="url(#clip-path-3)">
+      <g transform="translate(-465 -1869)">
+        <g id="Rectangle_12-19" data-name="Rectangle 12" transform="translate(465 1869)" fill="#22fa06" stroke="#707070" stroke-width="1">
+          <rect width="259" height="196" rx="33" stroke="none"/>
+          <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-186 -1869)">
+        <g id="Rectangle_12-20" data-name="Rectangle 12" transform="translate(465 1869)" fill="#22fa06" stroke="#707070" stroke-width="1">
+          <rect width="259" height="196" rx="33" stroke="none"/>
+          <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(93 -1869)">
+        <g id="Rectangle_12-21" data-name="Rectangle 12" transform="translate(465 1869)" fill="#22fa06" stroke="#707070" stroke-width="1">
+          <rect width="259" height="196" rx="33" stroke="none"/>
+          <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="A-4" data-name="A" transform="translate(917 5694)" fill="#f8f4f4" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text id="B-4" data-name="B" transform="translate(1195 5694)" fill="#fdfdfd" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+    <text id="C-4" data-name="C" transform="translate(1473 5694)" fill="#f2f8f8" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    <path id="Icon_awesome-long-arrow-alt-right-6" data-name="Icon awesome-long-arrow-alt-right" d="M99.645,26.31H3.809C1.705,26.31,0,27.541,0,29.058V41.88c0,1.517,1.705,2.748,3.809,2.748H99.645V55.174c0,4.9,8.205,7.348,13,3.886l27.315-19.7c2.975-2.146,2.975-5.626,0-7.771l-27.315-19.7c-4.8-3.462-13-1.01-13,3.886Z" transform="translate(1518 5781.742)"/>
+    <text id="Main_Axis_flex-direction:_row_3" data-name="Main Axis flex-direction: row;  " transform="translate(816 5833)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Main Axis flex-direction: row;  </tspan></text>
+    <text id="End-2" data-name="End" transform="translate(462 5538)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">End</tspan></text>
+    <text id="Start-2" data-name="Start" transform="translate(1586 5546)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Start</tspan></text>
+    <path id="Icon_awesome-long-arrow-alt-right-7" data-name="Icon awesome-long-arrow-alt-right" d="M97.455,26.31H3.725C1.668,26.31,0,27.541,0,29.058V41.88c0,1.517,1.668,2.748,3.725,2.748h93.73V55.174c0,4.9,8.025,7.348,12.718,3.886l26.715-19.7c2.91-2.146,2.91-5.626,0-7.771l-26.715-19.7c-4.693-3.462-12.718-1.01-12.718,3.886Z" transform="translate(601.43 5853.68) rotate(180)"/>
+    <g id="Group_3-2" data-name="Group 3" transform="translate(374 1289)">
+      <g id="Rectangle_14-8" data-name="Rectangle 14" transform="translate(445 1849)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+        <rect width="854" height="231" stroke="none"/>
+        <rect x="0.5" y="0.5" width="853" height="230" fill="none"/>
+      </g>
+      <g id="Repeat_Grid_3-3" data-name="Repeat Grid 3" transform="translate(456 1863)" clip-path="url(#clip-path-3)">
+        <g transform="translate(-465 -1869)">
+          <g id="Rectangle_12-22" data-name="Rectangle 12" transform="translate(465 1869)" fill="#fa0606" stroke="#707070" stroke-width="1">
+            <rect width="259" height="196" rx="33" stroke="none"/>
+            <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-186 -1869)">
+          <g id="Rectangle_12-23" data-name="Rectangle 12" transform="translate(465 1869)" fill="#fa0606" stroke="#707070" stroke-width="1">
+            <rect width="259" height="196" rx="33" stroke="none"/>
+            <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(93 -1869)">
+          <g id="Rectangle_12-24" data-name="Rectangle 12" transform="translate(465 1869)" fill="#fa0606" stroke="#707070" stroke-width="1">
+            <rect width="259" height="196" rx="33" stroke="none"/>
+            <rect x="0.5" y="0.5" width="258" height="195" rx="32.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <text id="A-5" data-name="A" transform="translate(557 1992)" fill="#f8f4f4" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+      <text id="B-5" data-name="B" transform="translate(835 1992)" fill="#fdfdfd" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+      <text id="C-5" data-name="C" transform="translate(1113 1992)" fill="#f2f8f8" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    </g>
+    <text id="Cross_Axis-_flex-direction:_column" data-name="Cross Axis- flex-direction: column" transform="translate(954 3609)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Cross Axis- flex-direction: column</tspan></text>
+    <path id="Icon_awesome-long-arrow-alt-right-8" data-name="Icon awesome-long-arrow-alt-right" d="M68.558,26.31H2.621A2.686,2.686,0,0,0,0,29.058V41.88a2.686,2.686,0,0,0,2.621,2.748H68.558V55.174A5.215,5.215,0,0,0,77.5,59.06L96.3,39.355a5.685,5.685,0,0,0,0-7.771L77.5,11.879a5.215,5.215,0,0,0-8.947,3.886Z" transform="translate(892.193 3633.68) rotate(180)"/>
+    <text id="Choose_column_or_column-reverse_and_your_main_axis_will_run_from_the_top_of_the_page_to_the_bottom_in_the_block_direction." data-name="Choose column or column-reverse and your main axis will run from the top of the page to the bottom — in the block direction." transform="translate(461 2249)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">Choose column or column-reverse and your main axis will run from the top of the </tspan><tspan x="0" y="66">page to the bottom — in the </tspan><tspan y="66" font-family="Arial-BoldMT, Arial" font-weight="700">block direction</tspan><tspan y="66">.</tspan></text>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(1672.727 2378.5) rotate(90)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="513" height="885" stroke="none"/>
+      <rect x="0.5" y="0.5" width="512" height="884" fill="none"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(1677.727 3637.5) rotate(90)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="513" height="885" stroke="none"/>
+      <rect x="0.5" y="0.5" width="512" height="884" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(823 2397)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="825" height="146" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="824" height="145" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(828 3656)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="825" height="146" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="824" height="145" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13-2" data-name="Rectangle 13" transform="translate(815 2565)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="833" height="143" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="832" height="142" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(820 3824)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="833" height="143" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="832" height="142" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13-3" data-name="Rectangle 13" transform="translate(815 2732)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="833" height="133" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="832" height="132" rx="32.5" fill="none"/>
+    </g>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(820 3991)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="833" height="133" rx="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="832" height="132" rx="32.5" fill="none"/>
+    </g>
+    <text id="A-6" data-name="A" transform="translate(1199 2501)" fill="#f8f4f4" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text id="A-7" data-name="A" transform="translate(1204 3760)" fill="#f8f4f4" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+    <text id="B-6" data-name="B" transform="translate(1199 2668)" fill="#fdfdfd" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+    <text id="B-7" data-name="B" transform="translate(1204 3927)" fill="#fdfdfd" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+    <text id="C-6" data-name="C" transform="translate(1198 2830)" fill="#f2f8f8" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    <text id="C-7" data-name="C" transform="translate(1203 4089)" fill="#f2f8f8" font-size="90" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    <text id="Main_Axis_flex-direction:_column_" data-name="Main Axis
+flex-direction:
+column;" transform="translate(788 2615)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-157.449" y="0">Main Axis</tspan><tspan x="-224.802" y="39">flex-direction:</tspan><tspan x="-132.215" y="78">column;</tspan></text>
+    <path id="Icon_awesome-long-arrow-alt-right-9" data-name="Icon awesome-long-arrow-alt-right" d="M118.294,16.052H4.522C2.025,16.052,0,17.282,0,18.8V31.622c0,1.517,2.025,2.748,4.522,2.748H118.294V44.916c0,4.9,9.741,7.348,15.438,3.886L166.16,29.1c3.532-2.146,3.532-5.626,0-7.771l-32.427-19.7c-5.7-3.462-15.438-1.01-15.438,3.886Z" transform="translate(737.139 2554.528) rotate(-91)"/>
+    <path id="Icon_awesome-long-arrow-alt-right-10" data-name="Icon awesome-long-arrow-alt-right" d="M103,16.052H3.937C1.763,16.052,0,17.282,0,18.8V31.622c0,1.517,1.763,2.748,3.937,2.748H103V44.916c0,4.9,8.481,7.348,13.442,3.886l28.234-19.7c3.075-2.146,3.075-5.626,0-7.771L116.44,1.621C111.48-1.841,103,.611,103,5.506Z" transform="translate(785.038 2738.148) rotate(90)"/>
+    <path id="Icon_awesome-long-arrow-alt-right-11" data-name="Icon awesome-long-arrow-alt-right" d="M50.942,16.052H1.947C.872,16.052,0,17.282,0,18.8V31.622c0,1.517.872,2.748,1.947,2.748H50.942V44.916c0,4.9,4.195,7.348,6.648,3.886L71.555,29.1a7.189,7.189,0,0,0,0-7.771L57.59,1.621c-2.453-3.462-6.648-1.01-6.648,3.886Z" transform="translate(768.461 3211.43) rotate(-91)"/>
+    <path id="Icon_awesome-long-arrow-alt-right-12" data-name="Icon awesome-long-arrow-alt-right" d="M42.355,16.052H1.619C.725,16.052,0,17.282,0,18.8V31.622c0,1.517.725,2.748,1.619,2.748H42.355V44.916c0,4.9,3.488,7.348,5.528,3.886L59.493,29.1a8.434,8.434,0,0,0,0-7.771L47.883,1.621c-2.04-3.462-5.528-1.01-5.528,3.886Z" transform="translate(815.282 3299.813) rotate(90)"/>
+    <text id="Cross_Axis_flex-direction:_row" data-name="Cross Axis
+flex-direction: row" transform="translate(818 3243)" fill="#020202" font-size="34" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-176.375" y="0">Cross Axis</tspan><tspan x="-294.694" y="39">flex-direction: row</tspan></text>
+    <path id="Icon_awesome-long-arrow-alt-right-13" data-name="Icon awesome-long-arrow-alt-right" d="M68.558,26.31H2.621A2.686,2.686,0,0,0,0,29.058V41.88a2.686,2.686,0,0,0,2.621,2.748H68.558V55.174A5.215,5.215,0,0,0,77.5,59.06L96.3,39.355a5.685,5.685,0,0,0,0-7.771L77.5,11.879a5.215,5.215,0,0,0-8.947,3.886Z" transform="matrix(1, -0.017, 0.017, 1, 1573.748, 3562.601)"/>
+    <text id="If_your_main_axis_is_column_or_column-reverse_then_the_cross_axis_runs_along_the_rows." data-name="If your main axis is column or column-reverse then the cross axis runs along the rows." transform="translate(461 3440)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">If your main axis is column or column-reverse then the cross axis runs along the </tspan><tspan x="0" y="66">rows.</tspan></text>
+    <text id="Understanding_which_axis_is_which_is_important_when_we_start_to_look_at_aligning_and_justifying_flex_items_flexbox_features_properties_that_align_and_justify_content_along_one_axis_or_the_other." data-name="Understanding which axis is which is important when we start to look at aligning and justifying flex items; flexbox features properties that align and justify content along one axis or the other." transform="translate(461 4203)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">Understanding which axis is which is important when we start to look at aligning and </tspan><tspan x="0" y="66">justifying flex items; flexbox features properties that align and justify content along </tspan><tspan x="0" y="103">one axis or the other.</tspan></text>
+    <text id="If_I_were_to_work_in_Arabic_then_the_start_edge_of_my_main_axis_would_be_on_the_right_and_the_end_edge_on_the_left." data-name="If I were to work in Arabic, then the start edge of my main axis would be on the right and the end edge on the left." transform="translate(462 5407)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">If I were to work in Arabic, then the start edge of my main axis would be on the right </tspan><tspan x="0" y="66">and the end edge on the left.</tspan></text>
+    <text id="In_both_cases_the_start_edge_of_the_cross_axis_is_at_the_top_of_the_flex_container_and_the_end_edge_at_the_bottom_as_both_languages_have_a_horizontal_writing_mode._After_a_while_thinking_about_start_and_end_rather_than_left_and_right_becomes_natural_an" data-name="In both cases the start edge of the cross axis is at the top of the flex container and the end edge at the bottom, as both languages have a horizontal writing mode.
+
+After a while, thinking about start and end rather than left and right becomes natural, an" transform="translate(462 5869)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">In both cases the start edge of the cross axis is at the top of the flex container and </tspan><tspan x="0" y="66">the end edge at the bottom, as both languages have a horizontal writing mode.</tspan><tspan x="0" y="103"></tspan><tspan x="0" y="140">After a while, thinking about start and end rather than left and right becomes natural, </tspan><tspan x="0" y="177">and will be useful to you when dealing with other layout methods such as CSS Grid </tspan><tspan x="0" y="214">Layout which follow the same patterns.</tspan></text>
+    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(465 7278)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="137" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="136" fill="none"/>
+    </g>
+    <text id="_.box_display:_flex_" data-name="          .box {
+            display: flex;
+          }" transform="translate(462 7292)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">          .box {</tspan><tspan x="0" y="64" xml:space="preserve">            display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">          }</tspan></text>
+    <text id="_.box_display:_flex_2" data-name="          .box {
+            display: flex;
+          }" transform="translate(462 7292)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">          .box {</tspan><tspan x="0" y="64" xml:space="preserve">            display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">          }</tspan></text>
+    <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(462 7448)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="350" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="349" fill="none"/>
+    </g>
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(465 8455)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="170" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="169" fill="none"/>
+    </g>
+    <text id="_div_class_box_div_One_div_div_Two_div_div_Three_br_has_br_extra_br_text_div_div_" data-name="        &lt;div class=“box”&gt;
+          &lt;div&gt;One&lt;/div&gt;
+          &lt;div&gt;Two&lt;/div&gt;
+          &lt;div&gt;Three
+              &lt;br&gt;has
+              &lt;br&gt;extra
+              &lt;br&gt;text
+          &lt;/div&gt;
+        &lt;/div&gt;" transform="translate(462 7458)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">        &lt;div class=“box”&gt;</tspan><tspan x="0" y="64" xml:space="preserve">          &lt;div&gt;One&lt;/div&gt;</tspan><tspan x="0" y="101" xml:space="preserve">          &lt;div&gt;Two&lt;/div&gt;</tspan><tspan x="0" y="138" xml:space="preserve">          &lt;div&gt;Three</tspan><tspan x="0" y="175" xml:space="preserve">              &lt;br&gt;has</tspan><tspan x="0" y="212" xml:space="preserve">              &lt;br&gt;extra</tspan><tspan x="0" y="249" xml:space="preserve">              &lt;br&gt;text</tspan><tspan x="0" y="286" xml:space="preserve">          &lt;/div&gt;</tspan><tspan x="0" y="323" xml:space="preserve">        &lt;/div&gt;</tspan></text>
+    <text id="_.box_display:_flex_flex-direction:_row-reverse_" data-name="        .box {
+          display: flex;
+          flex-direction: row-reverse;
+        }" transform="translate(465 8465)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">        .box {</tspan><tspan x="0" y="64" xml:space="preserve">          display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">          flex-direction: row-reverse;</tspan><tspan x="0" y="138" xml:space="preserve">        }</tspan></text>
+    <text id="Another_vital_area_of_understanding_is_how_flexbox_makes_no_assumption_about_the_writing_mode_of_the_document._In_the_past_CSS_was_heavily_weighted_towards_horizontal_and_left-to-right_writing_modes._Modern_layout_methods_encompass_the_range_of_writing_mo" data-name="Another vital area of understanding is how flexbox makes no assumption about the writing mode of the document. In the past, CSS was heavily weighted towards horizontal and left-to-right writing modes. Modern layout methods encompass the range of writing mo" transform="translate(461 4491)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">Another vital area of understanding is how flexbox makes no assumption about the </tspan><tspan x="0" y="66">writing mode of the document. In the past, CSS was heavily weighted towards </tspan><tspan x="0" y="103">horizontal and left-to-right writing modes. Modern layout methods encompass the </tspan><tspan x="0" y="140">range of writing modes and so we no longer assume that a line of text will start at the </tspan><tspan x="0" y="177">top left of a document and run towards the right hand side, with new lines appearing </tspan><tspan x="0" y="214">one under the other.</tspan><tspan x="0" y="251"></tspan><tspan x="0" y="288">You can read more about the relationship between flexbox and the Writing Modes </tspan><tspan x="0" y="325">specification in a later article; however, the following description should help explain </tspan><tspan x="0" y="362">why we do not talk about left and right and top and bottom when we describe the </tspan><tspan x="0" y="399">direction that our flex items flow in.</tspan><tspan x="0" y="436"></tspan><tspan x="0" y="473">If the flex-direction is row and I am working in English, then the start edge of the </tspan><tspan x="0" y="510">main axis will be on the left, the end edge on the right.</tspan></text>
+    <line id="Line_4" data-name="Line 4" x2="1216" transform="translate(461.5 4358.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" x2="1216" transform="translate(461.5 6135.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" x2="1216" transform="translate(461.5 8919.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_9" data-name="Line 9" x2="1216" transform="translate(461.5 10342.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" x2="1216" transform="translate(465.5 1107.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="An_area_of_a_document_laid_out_using_flexbox_is_called_a_flex_container._To_create_a_flex_container_we_set_the_value_of_the_area_s_container_s_display_property_to_flex_or_inline-flex._As_soon_as_we_do_this_the_direct_children_of_that_container_become_flex" data-name="An area of a document laid out using flexbox is called a flex container. To create a flex container, we set the value of the area’s container’s display property to flex or inline-flex. As soon as we do this the direct children of that container become flex" transform="translate(462 6251)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">An area of a document laid out using flexbox is called a flex container. To create a </tspan><tspan x="0" y="66">flex container, we set the value of the area’s container’s display property to flex or </tspan><tspan x="0" y="103">inline-flex. As soon as we do this the direct children of that container become flex </tspan><tspan x="0" y="140">items. As with all properties in CSS, some initial values are defined, so when </tspan><tspan x="0" y="177">creating a flex container all of the contained flex items will behave in the following </tspan><tspan x="0" y="214">way.</tspan><tspan x="0" y="251"></tspan><tspan x="0" y="288">Items display in a row (the flex-direction property’s default is row).</tspan><tspan x="0" y="325">The items start from the start edge of the main axis.</tspan><tspan x="0" y="362">The items do not stretch on the main dimension, but can shrink.</tspan><tspan x="0" y="399">The items will stretch to fill the size of the cross axis.</tspan><tspan x="0" y="436">The flex-basis property is set to auto.</tspan><tspan x="0" y="473">The flex-wrap property is set to nowrap.</tspan><tspan x="0" y="510">The result of this is that your items will all line up in a row, using the size of the </tspan><tspan x="0" y="547">content as their size in the main axis. If there are more items than can fit in the </tspan><tspan x="0" y="584">container, they will not wrap but will instead overflow. If some items are taller than </tspan><tspan x="0" y="621">others, all items will stretch along the cross axis to fill its full size.</tspan><tspan x="0" y="658"></tspan><tspan x="0" y="695">You can see in the live example below how this looks. Try editing the items or adding </tspan><tspan x="0" y="732">additional items in order to test the initial behavior of flexbox.</tspan></text>
+    <text id="Adding_the_flex-direction_property_to_the_flex_container_allows_us_to_change_the_direction_in_which_our_flex_items_display._Setting_flex-direction:_row-reverse_will_keep_the_items_displaying_along_the_row_however_the_start_and_end_lines_are_switched._If_" data-name="Adding the flex-direction property to the flex container allows us to change the direction in which our flex items display. Setting flex-direction: row-reverse will keep the items displaying along the row, however the start and end lines are switched.
+
+If " transform="translate(462 7925)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">Adding the flex-direction property to the flex container allows us to change the </tspan><tspan x="0" y="66">direction in which our flex items display. Setting flex-direction: row-reverse will keep </tspan><tspan x="0" y="103">the items displaying along the row, however the start and end lines are switched.</tspan><tspan x="0" y="140"></tspan><tspan x="0" y="177">If we change flex-direction to column the main axis switches and our items now </tspan><tspan x="0" y="214">display in a column. Set column-reverse and the start and end lines are again </tspan><tspan x="0" y="251">switched.</tspan><tspan x="0" y="288"></tspan><tspan x="0" y="325">The live example below has flex-direction set to row-reverse. Try the other values — </tspan><tspan x="0" y="362">row, column and column-reverse — to see what happens to the content.</tspan></text>
+    <text id="While_flexbox_is_a_one_dimensional_model_it_is_possible_to_cause_our_flex_items_to_wrap_onto_multiple_lines._In_doing_so_you_should_consider_each_line_as_a_new_flex_container._Any_space_distribution_will_happen_across_that_line_without_reference_to_the_" data-name="While flexbox is a one dimensional model, it is possible to cause our flex items to wrap onto multiple lines. In doing so, you should consider each line as a new flex container. Any space distribution will happen across that line, without reference to the " transform="translate(462 9033)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">While flexbox is a one dimensional model, it is possible to cause our flex items to </tspan><tspan x="0" y="66">wrap onto multiple lines. In doing so, you should consider each line as a new flex </tspan><tspan x="0" y="103">container. Any space distribution will happen across that line, without reference to </tspan><tspan x="0" y="140">the lines either side.</tspan><tspan x="0" y="177"></tspan><tspan x="0" y="214">To cause wrapping behaviour add the property flex-wrap with a value of wrap. Now, </tspan><tspan x="0" y="251">should your items be too large to all display in one line, they will wrap onto another </tspan><tspan x="0" y="288">line. The live sample below contains items that have been given a width, the total </tspan><tspan x="0" y="325">width of the items being too wide for the flex container. As flex-wrap is set to wrap, </tspan><tspan x="0" y="362">the items wrap. Set it to nowrap, which is also the initial value, and they will instead </tspan><tspan x="0" y="399">shrink to fit the container because they are using initial flexbox values that allows </tspan><tspan x="0" y="436">items to shrink. Using nowrap would cause an overflow if the items were not able to </tspan><tspan x="0" y="473">shrink, or could not shrink small enough to fit.</tspan></text>
+    <text id="You_can_combine_the_two_properties_flex-direction_and_flex-wrap_into_the_flex-flow_shorthand._The_first_value_specified_is_flex-direction_and_the_second_value_is_flex-wrap._In_the_live_example_below_try_changing_the_first_value_to_one_of_the_allowable_val" data-name="You can combine the two properties flex-direction and flex-wrap into the flex-flow shorthand. The first value specified is flex-direction and the second value is flex-wrap.
+
+In the live example below try changing the first value to one of the allowable val" transform="translate(465 10486)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">You can combine the two properties flex-direction and flex-wrap into the flex-flow </tspan><tspan x="0" y="66">shorthand. The first value specified is flex-direction and the second value is flex-</tspan><tspan x="0" y="103">wrap.</tspan><tspan x="0" y="140"></tspan><tspan x="0" y="177">In the live example below try changing the first value to one of the allowable values </tspan><tspan x="0" y="214">for flex-direction - row, row-reverse, column or column-reverse, and also change the </tspan><tspan x="0" y="251">second to wrap and nowrap.</tspan><tspan x="0" y="288"></tspan><tspan x="0" y="325"></tspan></text>
+    <text id="If_we_instead_would_like_the_items_to_grow_and_fill_the_space_then_we_need_to_have_a_method_of_distributing_the_leftover_space_between_the_items._This_is_what_the_flex_properties_that_we_apply_to_the_items_themselves_will_do._" data-name="If we instead would like the items to grow and fill the space, then we need to have a method of distributing the leftover space between the items. This is what the flex properties that we apply to the items themselves, will do.
+
+" transform="translate(456 12662)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">If we instead would like the items to grow and fill the space, then we need to have a </tspan><tspan x="0" y="66">method of distributing the leftover space between the items. This is what the flex </tspan><tspan x="0" y="103">properties that we apply to the items themselves, will do.</tspan></text>
+    <text id="If_we_instead_would_like_the_items_to_grow_and_fill_the_space_then_we_need_to_have_a_method_of_distributing_the_leftover_space_between_the_items._This_is_what_the_flex_properties_that_we_apply_to_the_items_themselves_will_do._2" data-name="If we instead would like the items to grow and fill the space, then we need to have a method of distributing the leftover space between the items. This is what the flex properties that we apply to the items themselves, will do.
+
+" transform="translate(456 12662)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">If we instead would like the items to grow and fill the space, then we need to have a </tspan><tspan x="0" y="66">method of distributing the leftover space between the items. This is what the flex </tspan><tspan x="0" y="103">properties that we apply to the items themselves, will do.</tspan><tspan x="0" y="140"></tspan><tspan x="0" y="177"></tspan></text>
+    <text id="The_flex-basis_is_what_defines_the_size_of_that_item_in_terms_of_the_space_it_leaves_as_available_space._The_initial_value_of_this_property_is_auto_in_this_case_the_browser_looks_to_see_if_the_items_have_a_size._In_the_example_above_all_of_the_items_hav" data-name="The flex-basis is what defines the size of that item in terms of the space it leaves as available space. The initial value of this property is auto — in this case the browser looks to see if the items have a size. In the example above, all of the items hav" transform="translate(462 12910)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">The flex-basis is what defines the size of that item in terms of the space it leaves as </tspan><tspan x="0" y="66">available space. The initial value of this property is auto — in this case the browser </tspan><tspan x="0" y="103">looks to see if the items have a size. In the example above, all of the items have a </tspan><tspan x="0" y="140">width of 100 pixels and so this is used as the flex-basis.</tspan><tspan x="0" y="177"></tspan><tspan x="0" y="214">If the items don’t have a size then the content’s size is used as the flex-basis. This is </tspan><tspan x="0" y="251">why when we just declare display: flex on the parent to create flex items, the items </tspan><tspan x="0" y="288">all move into a row and take only as much space as they need to display their </tspan><tspan x="0" y="325">contents.</tspan></text>
+    <text id="With_the_flex-grow_property_set_to_a_positive_integer_flex_items_can_grow_along_the_main_axis_from_their_flex-basis._This_will_cause_the_item_to_stretch_and_take_up_any_available_space_on_that_axis_or_a_proportion_of_the_available_space_if_other_items_ar" data-name="With the flex-grow property set to a positive integer, flex items can grow along the main axis from their flex-basis. This will cause the item to stretch and take up any available space on that axis, or a proportion of the available space if other items ar" transform="translate(460 13354)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">With the flex-grow property set to a positive integer, flex items can grow along the </tspan><tspan x="0" y="66">main axis from their flex-basis. This will cause the item to stretch and take up any </tspan><tspan x="0" y="103">available space on that axis, or a proportion of the available space if other items are </tspan><tspan x="0" y="140">allowed to grow too.</tspan><tspan x="0" y="177"></tspan><tspan x="0" y="214">If we gave all of our items in the example above a flex-grow value of 1 then the </tspan><tspan x="0" y="251">available space in the flex container would be equally shared between our items and </tspan><tspan x="0" y="288">they would stretch to fill the container on the main axis.</tspan><tspan x="0" y="325"></tspan><tspan x="0" y="362">The flex-grow property can be used to distribute space in proportion. If we give our </tspan><tspan x="0" y="399">first item a flex-grow value of 2 and the other items a value of 1, 2 parts will be given </tspan><tspan x="0" y="436">to the first item (100px out of 200px in the case of the example above), 1 part each </tspan><tspan x="0" y="473">the other two (50px each out of the 200px total).</tspan></text>
+    <text id="Where_the_flex-grow_property_deals_with_adding_space_in_the_main_axis_the_flex-shrink_property_controls_how_it_is_taken_away._If_we_do_not_have_enough_space_in_the_container_to_lay_out_our_items_and_flex-shrink_is_set_to_a_positive_integer_the_item_can_be" data-name="Where the flex-grow property deals with adding space in the main axis, the flex-shrink property controls how it is taken away. If we do not have enough space in the container to lay out our items and flex-shrink is set to a positive integer the item can be" transform="translate(460 13966)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">Where the flex-grow property deals with adding space in the main axis, the flex-</tspan><tspan x="0" y="66">shrink property controls how it is taken away. If we do not have enough space in the </tspan><tspan x="0" y="103">container to lay out our items and flex-shrink is set to a positive integer the item can </tspan><tspan x="0" y="140">become smaller than the flex-basis. As with flex-grow different values can be </tspan><tspan x="0" y="177">assigned in order to cause one item to shrink faster than others — an item with a </tspan><tspan x="0" y="214">higher value set for flex-shrink will shrink faster than its siblings that have lower </tspan><tspan x="0" y="251">values.</tspan><tspan x="0" y="288"></tspan><tspan x="0" y="325">The minimum size of the item will be taken into account while working out the actual </tspan><tspan x="0" y="362">amount of shrinkage that will happen, which means that flex-shrink has the potential </tspan><tspan x="0" y="399">to appear less consistent than flex-grow in behavior. We’ll therefore take a more </tspan><tspan x="0" y="436">detailed look at how this algorithm works in the article Controlling Ratios of items </tspan><tspan x="0" y="473">along the main axis.</tspan></text>
+    <text id="You_will_very_rarely_see_the_flex-grow_flex-shrink_and_flex-basis_properties_used_individually_instead_they_are_combined_into_the_flex_shorthand._The_flex_shorthand_allows_you_to_set_the_three_values_in_this_order_flex-grow_flex-shrink_flex-basis._" data-name="You will very rarely see the flex-grow, flex-shrink, and flex-basis properties used individually; instead they are combined into the flex shorthand. The flex shorthand allows you to set the three values in this order — flex-grow, flex-shrink, flex-basis.
+
+" transform="translate(461 14558)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">You will very rarely see the flex-grow, flex-shrink, and flex-basis properties used </tspan><tspan x="0" y="66">individually; instead they are combined into the flex shorthand. The flex shorthand </tspan><tspan x="0" y="103">allows you to set the three values in this order — flex-grow, flex-shrink, flex-basis.</tspan><tspan x="0" y="140"></tspan><tspan x="0" y="177">The live example below allows you to test out the different values of the flex </tspan><tspan x="0" y="214">shorthand; remember that the first value is flex-grow. Giving this a positive value </tspan><tspan x="0" y="251">means the item can grow. The second is flex-shrink — with a positive value the items </tspan><tspan x="0" y="288">can shrink, but only if their total values overflow the main axis. The final value is flex-</tspan><tspan x="0" y="325">basis; this is the value the items are using as their base value to grow and shrink </tspan><tspan x="0" y="362">from.</tspan></text>
+    <text id="A_key_feature_of_flexbox_is_the_ability_to_align_and_justify_items_on_the_main-_and_cross-axes_and_to_distribute_space_between_flex_items." data-name="A key feature of flexbox is the ability to align and justify items on the main- and cross-axes, and to distribute space between flex items." transform="translate(461 18220)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">A key feature of flexbox is the ability to align and justify items on the main- and </tspan><tspan x="0" y="66">cross-axes, and to distribute space between flex items.</tspan></text>
+    <text id="The_align-items_property_will_align_the_items_on_the_cross_axis._The_initial_value_for_this_property_is_stretch_and_this_is_why_flex_items_stretch_to_the_height_of_the_tallest_one_by_default._They_are_in_fact_stretching_to_fill_the_flex_container_the_ta" data-name="The align-items property will align the items on the cross axis.
+
+The initial value for this property is stretch and this is why flex items stretch to the height of the tallest one by default. They are in fact stretching to fill the flex container — the ta" transform="translate(461 18418)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">The align-items property will align the items on the cross axis.</tspan><tspan x="0" y="66"></tspan><tspan x="0" y="103">The initial value for this property is stretch and this is why flex items stretch to the </tspan><tspan x="0" y="140">height of the tallest one by default. They are in fact stretching to fill the flex container </tspan><tspan x="0" y="177">— the tallest item is defining the height of that.</tspan><tspan x="0" y="214"></tspan><tspan x="0" y="251">You could instead set align-items to flex-start in order to make the items line up at </tspan><tspan x="0" y="288">the start of the flex container, flex-end to align them to the end, or center to align </tspan><tspan x="0" y="325">them in the centre. Try this in the live example — I have given the flex container a </tspan><tspan x="0" y="362">height in order that you can see how the items can be moved around inside the </tspan><tspan x="0" y="399">container. See what happens if you set the value of align-items to:</tspan><tspan x="0" y="436"></tspan><tspan x="0" y="473">stretch</tspan><tspan x="0" y="510">flex-start</tspan><tspan x="0" y="547">flex-end</tspan><tspan x="0" y="584">center</tspan></text>
+    <text id="There_are_also_some_predefined_shorthand_values_which_cover_most_of_the_use_cases._You_will_often_see_these_used_in_tutorials_and_in_many_cases_these_are_all_you_will_need_to_use._The_predefined_values_are_as_follows:_flex:_initial_flex:_auto_flex:_none_" data-name="There are also some predefined shorthand values which cover most of the use cases. You will often see these used in tutorials, and in many cases these are all you will need to use. The predefined values are as follows:
+
+flex: initial
+flex: auto
+flex: none
+" transform="translate(461 15976)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">There are also some predefined shorthand values which cover most of the use </tspan><tspan x="0" y="66">cases. You will often see these used in tutorials, and in many cases these are all you </tspan><tspan x="0" y="103">will need to use. The predefined values are as follows:</tspan><tspan x="0" y="140"></tspan><tspan x="0" y="177">flex: initial</tspan><tspan x="0" y="214">flex: auto</tspan><tspan x="0" y="251">flex: none</tspan><tspan x="0" y="288">flex: &lt;positive-number&gt;</tspan><tspan x="0" y="325"></tspan><tspan x="0" y="362">Setting flex: initial resets the item to the initial values of Flexbox. This is the same as </tspan><tspan x="0" y="399">flex: 0 1 auto. In this case the value of flex-grow is 0, so items will not grow larger </tspan><tspan x="0" y="436">than their flex-basis size. The value of flex-shrink is 1, so items can shrink if they </tspan><tspan x="0" y="473">need to rather than overflowing. The value of flex-basis is auto. Items will either use </tspan><tspan x="0" y="510">any size set on the item in the main dimension, or they will get their size from the </tspan><tspan x="0" y="547">content size.</tspan><tspan x="0" y="584"></tspan><tspan x="0" y="621">Using flex: auto is the same as using flex: 1 1 auto; everything is as with flex:initial </tspan><tspan x="0" y="658">but in this case the items can grow and fill the container as well as shrink if required.</tspan><tspan x="0" y="695"></tspan><tspan x="0" y="732">Using flex: none will create fully inflexible flex items. It is as if you wrote flex: 0 0 </tspan><tspan x="0" y="769">auto. The items cannot grow or shrink but will be laid out using flexbox with a flex-</tspan><tspan x="0" y="806">basis of auto.</tspan><tspan x="0" y="843"></tspan><tspan x="0" y="880">The shorthand you often see in tutorials is flex: 1 or flex: 2 and so on. This is as if </tspan><tspan x="0" y="917">you used flex: 1 1 0. The items can grow and shrink from a flex-basis of 0.</tspan><tspan x="0" y="954"></tspan><tspan x="0" y="991">Try these shorthand values in the live example below.</tspan></text>
+    <text id="To_have_more_control_over_flex_items_we_can_target_them_directly._We_do_this_by_way_of_three_properties:_flex-grow_flex-shrink_flex-basis_We_will_take_a_brief_look_at_these_properties_in_this_overview_and_you_can_gain_a_fuller_understanding_in_the_guide_" data-name="To have more control over flex items we can target them directly. We do this by way of three properties:
+
+flex-grow
+flex-shrink
+flex-basis
+We will take a brief look at these properties in this overview, and you can gain a fuller understanding in the guide " transform="translate(456 11580)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">To have more control over flex items we can target them directly. We do this by way </tspan><tspan x="0" y="66">of three properties:</tspan><tspan x="0" y="103"></tspan><tspan x="0" y="140">flex-grow</tspan><tspan x="0" y="177">flex-shrink</tspan><tspan x="0" y="214">flex-basis</tspan><tspan x="0" y="251">We will take a brief look at these properties in this overview, and you can gain a fuller </tspan><tspan x="0" y="288">understanding in the guide Controlling Ratios of Flex Items on the Main Axis.</tspan><tspan x="0" y="325"></tspan><tspan x="0" y="362">Before we can make sense of these properties we need to consider the concept of </tspan><tspan x="0" y="399">available space. What we are doing when we change the value of these flex </tspan><tspan x="0" y="436">properties is to change the way that available space is distributed amongst our </tspan><tspan x="0" y="473">items. This concept of available space is also important when we come to look at </tspan><tspan x="0" y="510">aligning items.</tspan><tspan x="0" y="547"></tspan><tspan x="0" y="584">If we have three 100 pixel-wide items in a container which is 500 pixels wide, then </tspan><tspan x="0" y="621">the space we need to lay out our items is 300 pixels. This leaves 200 pixels of </tspan><tspan x="0" y="658">available space. If we don’t change the initial values then flexbox will put that space </tspan><tspan x="0" y="695">after the last item</tspan></text>
+    <text id="Find_out_more_about_wrapping_flex_items_in_the_guide_Mastering_Wrapping_of_Flex_Items." data-name="Find out more about wrapping flex items in the guide Mastering Wrapping of Flex Items." transform="translate(462 10216)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">Find out more about wrapping flex items in the guide Mastering Wrapping of Flex </tspan><tspan x="0" y="66">Items.</tspan></text>
+    <text id="Changing_flex-direction-2" data-name="Changing flex-direction" transform="translate(462 7881)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Changing flex-direction</tspan></text>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(465 8658)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="212" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="211" fill="none"/>
+    </g>
+    <text id="_div_class_box_div_One_div_div_Two_div_div_Three_div_div_" data-name="        &lt;div class=“box”&gt;
+          &lt;div&gt;One&lt;/div&gt;
+          &lt;div&gt;Two&lt;/div&gt;
+          &lt;div&gt;Three&lt;/div&gt;
+        &lt;/div&gt;" transform="translate(465 8668)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">        &lt;div class=“box”&gt;</tspan><tspan x="0" y="64" xml:space="preserve">          &lt;div&gt;One&lt;/div&gt;</tspan><tspan x="0" y="101" xml:space="preserve">          &lt;div&gt;Two&lt;/div&gt;</tspan><tspan x="0" y="138" xml:space="preserve">          &lt;div&gt;Three&lt;/div&gt;</tspan><tspan x="0" y="175" xml:space="preserve">        &lt;/div&gt;</tspan></text>
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(461 9562)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1141" height="165" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1140" height="164" fill="none"/>
+    </g>
+    <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(486 9577)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="429" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="428" height="61" rx="30.5" fill="none"/>
+    </g>
+    <text id="One-5" data-name="One" transform="translate(513 9622)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">One</tspan></text>
+    <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(915 9577)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="429" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="428" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(486 9639)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="429" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="428" height="61" rx="30.5" fill="none"/>
+    </g>
+    <text id="Two-5" data-name="Two" transform="translate(936 9622)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two</tspan></text>
+    <text id="Three-2" data-name="Three" transform="translate(506 9684)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Three</tspan></text>
+    <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(462 9752)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="176" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="175" fill="none"/>
+    </g>
+    <g id="Rectangle_31" data-name="Rectangle 31" transform="translate(462 9961)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="212" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="211" fill="none"/>
+    </g>
+    <text id="_.box_display:_flex_flex-wrap:_wrap_" data-name="      .box {
+        display: flex;
+        flex-wrap: wrap;
+    }" transform="translate(462 9762)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">      .box {</tspan><tspan x="0" y="64" xml:space="preserve">        display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">        flex-wrap: wrap;</tspan><tspan x="0" y="138" xml:space="preserve">    }</tspan></text>
+    <text id="_div_class_box_div_One_div_div_Two_div_div_Three_div_div_2" data-name="      &lt;div class=“box”&gt;
+        &lt;div&gt;One&lt;/div&gt;
+        &lt;div&gt;Two&lt;/div&gt;
+        &lt;div&gt;Three&lt;/div&gt;
+      &lt;/div&gt;" transform="translate(462 9971)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">      &lt;div class=“box”&gt;</tspan><tspan x="0" y="64" xml:space="preserve">        &lt;div&gt;One&lt;/div&gt;</tspan><tspan x="0" y="101" xml:space="preserve">        &lt;div&gt;Two&lt;/div&gt;</tspan><tspan x="0" y="138" xml:space="preserve">        &lt;div&gt;Three&lt;/div&gt;</tspan><tspan x="0" y="175" xml:space="preserve">      &lt;/div&gt;</tspan></text>
+    <g id="Rectangle_24-2" data-name="Rectangle 24" transform="translate(465 10779)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1141" height="165" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1140" height="164" fill="none"/>
+    </g>
+    <g id="Rectangle_32" data-name="Rectangle 32" transform="translate(456 14955)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1226" height="113" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1225" height="112" fill="none"/>
+    </g>
+    <g id="Rectangle_25-2" data-name="Rectangle 25" transform="translate(490 10794)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="429" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="428" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(481 14982)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="370" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(481 14982)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="370" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(1221 14981)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="370" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(851 14982)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="370" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="61" rx="30.5" fill="none"/>
+    </g>
+    <text id="One-6" data-name="One" transform="translate(517 10839)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">One</tspan></text>
+    <text id="One-7" data-name="One" transform="translate(508 15027)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">One</tspan></text>
+    <g id="Rectangle_28-2" data-name="Rectangle 28" transform="translate(919 10794)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="429" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="428" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_29-2" data-name="Rectangle 29" transform="translate(490 10856)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="429" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="428" height="61" rx="30.5" fill="none"/>
+    </g>
+    <text id="Two-6" data-name="Two" transform="translate(940 10839)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two</tspan></text>
+    <text id="Two-7" data-name="Two" transform="translate(883 15026)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two</tspan></text>
+    <text id="Three-3" data-name="Three" transform="translate(510 10901)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Three</tspan></text>
+    <text id="Three-4" data-name="Three" transform="translate(1246 15026)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Three</tspan></text>
+    <g id="Rectangle_30-2" data-name="Rectangle 30" transform="translate(465 10969)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="176" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="175" fill="none"/>
+    </g>
+    <g id="Rectangle_31-2" data-name="Rectangle 31" transform="translate(465 11178)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="212" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="211" fill="none"/>
+    </g>
+    <text id="_.box_display:_flex_flex-flow:_row_wrap_" data-name="      .box {
+        display: flex;
+        flex-flow: row wrap;
+      }" transform="translate(465 10979)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">      .box {</tspan><tspan x="0" y="64" xml:space="preserve">        display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">        flex-flow: row wrap;</tspan><tspan x="0" y="138" xml:space="preserve">      }</tspan></text>
+    <text id="_div_class_box_div_One_div_div_Two_div_div_Three_div_div_3" data-name="      &lt;div class=“box”&gt;
+        &lt;div&gt;One&lt;/div&gt;
+        &lt;div&gt;Two&lt;/div&gt;
+        &lt;div&gt;Three&lt;/div&gt;
+      &lt;/div&gt;" transform="translate(465 11188)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">      &lt;div class=“box”&gt;</tspan><tspan x="0" y="64" xml:space="preserve">        &lt;div&gt;One&lt;/div&gt;</tspan><tspan x="0" y="101" xml:space="preserve">        &lt;div&gt;Two&lt;/div&gt;</tspan><tspan x="0" y="138" xml:space="preserve">        &lt;div&gt;Three&lt;/div&gt;</tspan><tspan x="0" y="175" xml:space="preserve">      &lt;/div&gt;</tspan></text>
+    <g id="Group_8" data-name="Group 8">
+      <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(456 15084)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+        <rect width="1196" height="588" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1195" height="587" fill="none"/>
+      </g>
+      <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(456 15722)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+        <rect width="1196" height="205" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1195" height="204" fill="none"/>
+      </g>
+      <text id="_.box_display:_flex_.one_flex:_1_1_auto_.two_flex:_1_1_auto_.three_flex:_1_1_auto_" data-name=".box {
+        display: flex;
+      }
+
+      .one {
+        flex: 1 1 auto;
+      }
+
+      .two {
+        flex: 1 1 auto;
+      }
+
+      .three {
+        flex: 1 1 auto;
+      }
+  " transform="translate(456 15094)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27">.box {</tspan><tspan x="0" y="64" xml:space="preserve">        display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">      }</tspan><tspan x="0" y="138"></tspan><tspan x="0" y="175" xml:space="preserve">      .one {</tspan><tspan x="0" y="212" xml:space="preserve">        flex: 1 1 auto;</tspan><tspan x="0" y="249" xml:space="preserve">      }</tspan><tspan x="0" y="286"></tspan><tspan x="0" y="323" xml:space="preserve">      .two {</tspan><tspan x="0" y="360" xml:space="preserve">        flex: 1 1 auto;</tspan><tspan x="0" y="397" xml:space="preserve">      }</tspan><tspan x="0" y="434"></tspan><tspan x="0" y="471" xml:space="preserve">      .three {</tspan><tspan x="0" y="508" xml:space="preserve">        flex: 1 1 auto;</tspan><tspan x="0" y="545" xml:space="preserve">      }</tspan><tspan x="0" y="582" xml:space="preserve">  </tspan></text>
+      <text id="_div_class_box_div_class_one_One_div_div_class_two_Two_div_div_class_three_Three_div_div_" data-name="      &lt;div class=“box”&gt;
+        &lt;div class=“one”&gt;One&lt;/div&gt;
+        &lt;div class=“two”&gt;Two&lt;/div&gt;
+        &lt;div class=“three”&gt;Three&lt;/div&gt;
+      &lt;/div&gt;" transform="translate(456 15732)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">      &lt;div class=“box”&gt;</tspan><tspan x="0" y="64" xml:space="preserve">        &lt;div class=“one”&gt;One&lt;/div&gt;</tspan><tspan x="0" y="101" xml:space="preserve">        &lt;div class=“two”&gt;Two&lt;/div&gt;</tspan><tspan x="0" y="138" xml:space="preserve">        &lt;div class=“three”&gt;Three&lt;/div&gt;</tspan><tspan x="0" y="175" xml:space="preserve">      &lt;/div&gt;</tspan></text>
+    </g>
+    <line id="Line_8" data-name="Line 8" x2="1216" transform="translate(461.5 8919.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_10" data-name="Line 10" x2="1216" transform="translate(461.5 10342.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_11" data-name="Line 11" x2="1216" transform="translate(465.5 11434.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_14" data-name="Line 14" x2="1216" transform="translate(458.5 18029.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Icon_awesome-long-arrow-alt-right-14" data-name="Icon awesome-long-arrow-alt-right" d="M36.927,26.31H1.411C.632,26.31,0,27.541,0,29.058V41.88c0,1.517.632,2.748,1.411,2.748H36.927V55.174c0,4.9,3.041,7.348,4.819,3.886l10.123-19.7a9.544,9.544,0,0,0,0-7.771l-10.123-19.7c-1.778-3.462-4.819-1.01-4.819,3.886Z" transform="translate(1610 12565.742)"/>
+    <path id="Icon_awesome-long-arrow-alt-right-15" data-name="Icon awesome-long-arrow-alt-right" d="M81.436,24.4H3.113C1.394,24.4,0,25.484,0,26.821v11.3c0,1.337,1.394,2.421,3.113,2.421H81.436v9.291c0,4.313,6.706,6.473,10.628,3.423l22.324-17.36a4.125,4.125,0,0,0,0-6.847L92.064,11.686c-3.922-3.05-10.628-.89-10.628,3.423Z" transform="translate(579.211 12359.68) rotate(-180)"/>
+    <path id="Icon_awesome-long-arrow-alt-right-16" data-name="Icon awesome-long-arrow-alt-right" d="M81.436,24.4H3.113C1.394,24.4,0,25.484,0,26.821v11.3c0,1.337,1.394,2.421,3.113,2.421H81.436v9.291c0,4.313,6.706,6.473,10.628,3.423l22.324-17.36a4.125,4.125,0,0,0,0-6.847L92.064,11.686c-3.922-3.05-10.628-.89-10.628,3.423Z" transform="translate(1546 12294.742)"/>
+    <line id="Line_12" data-name="Line 12" x2="311" transform="translate(568.5 12327.5)" fill="none" stroke="#020202" stroke-width="16"/>
+    <line id="Line_13" data-name="Line 13" x2="407" transform="translate(1192.5 12327.5)" fill="none" stroke="#020202" stroke-width="16"/>
+    <text id="The_flex-basis_property" data-name="The flex-basis property" transform="translate(456 12862)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The flex-basis property</tspan></text>
+    <text id="The_flex-grow_property" data-name="The flex-grow property" transform="translate(458 13315)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The flex-grow property</tspan></text>
+    <text id="The_flex-shrink_property" data-name="The flex-shrink property" transform="translate(458 13927)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">The flex-shrink property</tspan></text>
+    <text id="Shorthand_values_for_the_flex_properties" data-name="Shorthand values for the flex properties" transform="translate(459 14519)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Shorthand values for the flex properties</tspan></text>
+    <text id="align-items_" data-name="align-items
+" transform="translate(459 18368)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">align-items</tspan><tspan x="0" y="58"></tspan></text>
+    <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(456 17002)" fill="#fff" stroke="#707070" stroke-width="1" stroke-dasharray="3">
+      <rect width="1226" height="113" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1225" height="112" fill="none"/>
+    </g>
+    <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(481 17029)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="370" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(481 17029)" fill="#06e7fa" stroke="#707070" stroke-width="1">
+      <rect width="370" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_42" data-name="Rectangle 42" transform="translate(1221 17028)" fill="#fa0606" stroke="#707070" stroke-width="1">
+      <rect width="370" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="61" rx="30.5" fill="none"/>
+    </g>
+    <g id="Rectangle_43" data-name="Rectangle 43" transform="translate(851 17029)" fill="#22fa06" stroke="#707070" stroke-width="1">
+      <rect width="370" height="62" rx="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="369" height="61" rx="30.5" fill="none"/>
+    </g>
+    <text id="One-8" data-name="One" transform="translate(508 17074)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">One</tspan></text>
+    <text id="Two-8" data-name="Two" transform="translate(883 17073)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Two</tspan></text>
+    <text id="Three-5" data-name="Three" transform="translate(1246 17073)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Three</tspan></text>
+    <g id="Group_9" data-name="Group 9" transform="translate(0 2050)">
+      <g id="Rectangle_37-2" data-name="Rectangle 37" transform="translate(456 15084)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+        <rect width="1196" height="588" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1195" height="587" fill="none"/>
+      </g>
+      <g id="Rectangle_38-2" data-name="Rectangle 38" transform="translate(456 15722)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+        <rect width="1196" height="205" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1195" height="204" fill="none"/>
+      </g>
+      <text id="_.box_display:_flex_.one_flex:_1_.two_flex:_1_.three_flex:_1_" data-name="      .box {
+        display: flex;
+      }
+
+      .one {
+        flex: 1;
+      }
+
+      .two {
+        flex: 1;
+      }
+
+      .three {
+        flex: 1;
+      }" transform="translate(456 15094)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">      .box {</tspan><tspan x="0" y="64" xml:space="preserve">        display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">      }</tspan><tspan x="0" y="138"></tspan><tspan x="0" y="175" xml:space="preserve">      .one {</tspan><tspan x="0" y="212" xml:space="preserve">        flex: 1;</tspan><tspan x="0" y="249" xml:space="preserve">      }</tspan><tspan x="0" y="286"></tspan><tspan x="0" y="323" xml:space="preserve">      .two {</tspan><tspan x="0" y="360" xml:space="preserve">        flex: 1;</tspan><tspan x="0" y="397" xml:space="preserve">      }</tspan><tspan x="0" y="434"></tspan><tspan x="0" y="471" xml:space="preserve">      .three {</tspan><tspan x="0" y="508" xml:space="preserve">        flex: 1;</tspan><tspan x="0" y="545" xml:space="preserve">      }</tspan></text>
+      <text id="_div_class_box_div_class_one_One_div_div_class_two_Two_div_div_class_three_Three_div_div_2" data-name="      &lt;div class=“box”&gt;
+        &lt;div class=“one”&gt;One&lt;/div&gt;
+        &lt;div class=“two”&gt;Two&lt;/div&gt;
+        &lt;div class=“three”&gt;Three&lt;/div&gt;
+      &lt;/div&gt;" transform="translate(456 15732)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">      &lt;div class=“box”&gt;</tspan><tspan x="0" y="64" xml:space="preserve">        &lt;div class=“one”&gt;One&lt;/div&gt;</tspan><tspan x="0" y="101" xml:space="preserve">        &lt;div class=“two”&gt;Two&lt;/div&gt;</tspan><tspan x="0" y="138" xml:space="preserve">        &lt;div class=“three”&gt;Three&lt;/div&gt;</tspan><tspan x="0" y="175" xml:space="preserve">      &lt;/div&gt;</tspan></text>
+    </g>
+    <g id="Rectangle_37-3" data-name="Rectangle 37" transform="translate(456 19280)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="177" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="176" fill="none"/>
+    </g>
+    <g id="Rectangle_48" data-name="Rectangle 48" transform="translate(456 20755)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="177" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="176" fill="none"/>
+    </g>
+    <g id="Rectangle_38-3" data-name="Rectangle 38" transform="translate(456 19503)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="216" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="215" fill="none"/>
+    </g>
+    <g id="Rectangle_49" data-name="Rectangle 49" transform="translate(456 20978)" fill="#c3f7fc" stroke="#707070" stroke-width="1">
+      <rect width="1196" height="216" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1195" height="215" fill="none"/>
+    </g>
+    <text id="_.box_display:_flex_align-items:_flex-start_" data-name="          .box {
+            display: flex;
+            align-items: flex-start;
+          }" transform="translate(456 19290)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">          .box {</tspan><tspan x="0" y="64" xml:space="preserve">            display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">            align-items: flex-start;</tspan><tspan x="0" y="138" xml:space="preserve">          }</tspan></text>
+    <text id="_.box_display:_flex_justify-content:_flex-start_" data-name="          .box {
+            display: flex;
+            justify-content: flex-start;
+          }" transform="translate(456 20765)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">          .box {</tspan><tspan x="0" y="64" xml:space="preserve">            display: flex;</tspan><tspan x="0" y="101" xml:space="preserve">            justify-content: flex-start;</tspan><tspan x="0" y="138" xml:space="preserve">          }</tspan></text>
+    <text id="_div_class_box_div_class_one_One_div_div_class_two_Two_div_div_class_three_Three_div_div_3" data-name="      &lt;div class=“box”&gt;
+        &lt;div class=“one”&gt;One&lt;/div&gt;
+        &lt;div class=“two”&gt;Two&lt;/div&gt;
+        &lt;div class=“three”&gt;Three&lt;/div&gt;
+      &lt;/div&gt;" transform="translate(456 19514)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">      &lt;div class=“box”&gt;</tspan><tspan x="0" y="64" xml:space="preserve">        &lt;div class=“one”&gt;One&lt;/div&gt;</tspan><tspan x="0" y="101" xml:space="preserve">        &lt;div class=“two”&gt;Two&lt;/div&gt;</tspan><tspan x="0" y="138" xml:space="preserve">        &lt;div class=“three”&gt;Three&lt;/div&gt;</tspan><tspan x="0" y="175" xml:space="preserve">      &lt;/div&gt;</tspan></text>
+    <text id="_div_class_box_div_One_div_div_Two_div_div_Three_div_div_4" data-name="        &lt;div class=“box”&gt;
+          &lt;div&gt;One&lt;/div&gt;
+          &lt;div&gt;Two&lt;/div&gt;
+          &lt;div&gt;Three&lt;/div&gt;
+        &lt;/div&gt;
+ " transform="translate(456 20989)" font-size="32" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="27" xml:space="preserve">        &lt;div class=“box”&gt;</tspan><tspan x="0" y="64" xml:space="preserve">          &lt;div&gt;One&lt;/div&gt;</tspan><tspan x="0" y="101" xml:space="preserve">          &lt;div&gt;Two&lt;/div&gt;</tspan><tspan x="0" y="138" xml:space="preserve">          &lt;div&gt;Three&lt;/div&gt;</tspan><tspan x="0" y="175" xml:space="preserve">        &lt;/div&gt;</tspan><tspan x="0" y="212"> </tspan></text>
+    <text id="Justify-content" transform="translate(459 19792)" fill="#575656" font-size="50" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Justify-content</tspan></text>
+    <text id="The_justify-content_property_is_used_to_align_the_items_on_the_main_axis_the_direction_in_which_flex-direction_has_set_the_flow._The_initial_value_is_flex-start_which_will_line_the_items_up_at_the_start_edge_of_the_container_but_you_could_also_set_the_va" data-name="The justify-content property is used to align the items on the main axis, the direction in which flex-direction has set the flow. The initial value is flex-start which will line the items up at the start edge of the container, but you could also set the va" transform="translate(461 19840)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">The justify-content property is used to align the items on the main axis, the direction </tspan><tspan x="0" y="66">in which flex-direction has set the flow. The initial value is flex-start which will line the </tspan><tspan x="0" y="103">items up at the start edge of the container, but you could also set the value to flex-</tspan><tspan x="0" y="140">end to line them up at the end, or center to line them up in the centre.</tspan><tspan x="0" y="177"></tspan><tspan x="0" y="214">You can also use the value space-between to take all the spare space after the items </tspan><tspan x="0" y="251">have been laid out, and share it out evenly between the items so there will be an </tspan><tspan x="0" y="288">equal amount of space between each item. To cause an equal amount of space on </tspan><tspan x="0" y="325">the right and left of each item use the value space-around. With space-around, items </tspan><tspan x="0" y="362">have a half-size space on either end. Or, to cause items to have equal space around </tspan><tspan x="0" y="399">them use the value space-evenly. With space-evenly, items have a full-size space on </tspan><tspan x="0" y="436">either end.</tspan><tspan x="0" y="473"></tspan><tspan x="0" y="510">Try the following values of justify-content in the live example:</tspan><tspan x="0" y="547"></tspan><tspan x="0" y="584">flex-start</tspan><tspan x="0" y="621">flex-end</tspan><tspan x="0" y="658">center</tspan><tspan x="0" y="695">space-around</tspan><tspan x="0" y="732">space-between</tspan><tspan x="0" y="769">space-evenly</tspan></text>
+    <text id="All_documentation_on_this_page_taken_from_MDN_https:_developer.mozilla.org_en-US_docs_Web_CSS_CSS_Flexible_Box_Layout_Basic_Concepts_of_Flexbox" data-name="All documentation on this page taken from MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox" transform="translate(461 21217)" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="29">All documentation on this page taken from MDN</tspan><tspan x="0" y="66"></tspan><tspan x="0" y="103">https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/</tspan><tspan x="0" y="140">Basic_Concepts_of_Flexbox</tspan></text>
+    <text id="Three-6" data-name="Three" transform="translate(660 20711)" fill="#020202" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Three</tspan></text>
+  </g>
+</svg>

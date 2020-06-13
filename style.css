@@ -1,0 +1,196 @@
+/* **** clearing styles *****/
+body{ 
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+img{
+    width: 75%;
+}
+hr{
+    height: 10px;
+    background-color: #4d5b68;
+}
+.content{
+    display: grid;
+    grid-template-columns: 250px 1fr 1fr 1fr;
+    grid-template-rows: minmax(100px, auto);
+    grid-gap: 10px;
+    max-width: 1080px;
+    margin: 0 auto; 
+    grid-template-areas: 
+    "header header header header"
+    "gap gap gap gap"
+    "nav main main main"
+    "nav main main main"
+    "nav main main main"
+    "nav main main main"
+    "nav footer footer footer";
+}
+/* **********     declaring grid areas *********** */
+header{ 
+    grid-area: header;
+}
+.gap{
+    grid-area: gap;
+}
+nav{
+    grid-area: nav;
+}
+main{
+    grid-area: main;
+}
+footer{
+    grid-area: footer;
+}
+ /* ********  Base CSS ******** */
+header{       
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+header h1{
+    margin: 5px auto;
+}
+.gap{
+    background-color: #4d5b68;
+    height: 10px;
+}
+nav{
+   background-color: #4d5b68;
+    
+}
+nav ul{
+   list-style-type: none;
+   padding: 5px 0;
+   position: sticky;
+   top: 10px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: flex-start;
+   height: 600px;
+}
+nav li{
+    background-color: #38384d;
+    width: 94%;
+    padding: 7px;
+    margin: 0;
+    
+}
+nav h2{
+    color: #fff;
+    margin: 0px auto;
+}
+nav li a{
+    font-size: 20px;
+    color: #05e8fb;
+    text-decoration: none;
+    font-weight: bold;
+}
+main{
+    margin-left: 25px;
+}
+main h2{
+    color: #273846;
+}
+main h3{
+    color: #596a7a;
+}
+main img{
+margin-left: 10%;
+margin-right: 10%; 
+}
+
+footer{
+   
+}
+pre{
+    background-color: #c6e2fa;
+    color: #535353;
+    border-top: 1px solid #535353;
+    border-bottom: 1px solid #535353;
+    padding-left: 10%;
+    padding: 20px;
+}
+p code{
+    color: #535353;
+}
+
+@media screen and (max-width: 850px){
+    .content{
+            grid-template-columns: 200px 1fr 1fr 1fr;
+    }
+nav li a{
+    font-size: 18px;
+    color: #05e8fb;
+    text-decoration: none;
+    font-weight: bold;
+}
+    
+    img{
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 650px){
+    .content{
+    grid-template-columns: repeat(4 1fr);
+    grid-gap: 5px;
+    grid-template-areas: 
+    "header header header header"
+    "gap gap gap gap"
+    "nav nav nav nav"
+    "main main main main"
+    "main main main main"
+    "main main main main"
+    "footer footer footer footer";
+    }
+
+    header h1{
+        font-size: 26px;
+    }
+
+    nav ul{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 375px;
+    text-align: center;
+}
+    nav li{
+        padding: 2px;
+        margin: 0 auto;
+        margin-bottom: 10px;
+        background-color: #38384d;
+        width: 95%;
+    }
+    nav ul li h2{
+        padding: 0;
+        margin-top: 6px;
+        margin-bottom: 0px;
+    }
+    nav li span{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 485px){
+    header h1{
+        font-size: 22px;
+    }
+
+    #main-doc h2{
+        font-size: 22px;
+    }
+    main-doc h2{
+        font-size: 20px;
+    }
+}
